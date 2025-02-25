@@ -1,2 +1,0 @@
-# khumarik.weather
-Weather 
